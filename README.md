@@ -1,0 +1,1 @@
+ATI and NVIDIA miner for XCash.
